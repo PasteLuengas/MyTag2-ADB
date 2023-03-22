@@ -1,0 +1,6 @@
+transfersh-client==1.1.3
+flet
+requests
+eyed3
+pyperclip
+wget
